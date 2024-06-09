@@ -73,7 +73,7 @@ The model achieved an impressive accuracy of 95.688% in predicting passenger sat
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Passenger-Satisfaction-Prediction-Hackathon.git
+   git clone https://github.com/mbrakenhoff/Passenger-Satisfaction-Prediction-Hackathon.git
    ```
 
 2. **Navigate to the project directory**:
